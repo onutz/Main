@@ -1,4 +1,4 @@
-ORO - team lead
+**Question**: 
 
   
 
@@ -6,7 +6,7 @@ I need to help me train for an interview. The job is Business Unit Manager, the 
 
   
 
-Perplexity:
+**_Perplexity_**:
 
 Sure, I'd be happy to help you prepare for your interview! Here are some tips and potential solutions to common conflicts that may arise in a team environment:
 
@@ -28,7 +28,7 @@ When discussing these solutions during your interview, be sure to emphasize the 
 
   
 
-Kagi:
+**_Kagi_**:
 
 Based on the information provided in the memory, here are some tips for answering interview questions about conflict management for the Business Unit Manager role:
 
