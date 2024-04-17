@@ -87,3 +87,38 @@ Remember, there may not always be a perfect "right" answer, but the interviewer 
 [6] [How should I answer "Tell me about a time you had a conflict at work ...](https://workplace.stackexchange.com/questions/157287/how-should-i-answer-tell-me-about-a-time-you-had-a-conflict-at-work-if-ive-ne) 
 
 1.  [7] [Can you still get the job even if you didn't answer some of ... - Quora](https://www.quora.com/Can-you-still-get-the-job-even-if-you-didn-t-answer-some-of-the-questions-right-or-to-what-the-employer-was-looking-for-in-an-interview)
+
+
+   **Question:**
+   What are the most common questions related to conflict management?
+
+   **_Kagi_**
+Based on the information in the provided memory, here are some of the most common interview questions related to conflict management:
+
+1. **Tell me about a time you had a conflict with a coworker. How did you handle it?** [1][2]
+This question assesses your ability to resolve interpersonal conflicts professionally. Describe the situation objectively, the steps you took to address it, and the positive outcome.
+
+2. **Describe a situation where you disagreed with your manager's decision. How did you approach it?** [3][4]
+This tests your ability to handle conflicts with authority figures tactfully. Highlight your respect for the chain of command while explaining your perspective respectfully.
+
+3. **How would you deal with two team members who have very different working styles causing tension?** [5]
+The interviewer wants to see your approach to mediating conflicts and finding common ground between differing personalities or work styles.
+
+4. **What's your strategy for managing conflicting priorities or deadlines?** [5]
+This evaluates your prioritization, time management, and ability to handle stress when faced with competing demands.
+
+5. **Tell me about a time you had to deal with an angry customer or client. How did you defuse the situation?** [6][7]
+Customer-facing roles require the ability to remain calm and resolve conflicts diplomatically.
+
+6. **Have you ever had to convince someone to see things your way? How did you do it?** [6]
+This assesses your skills in persuasion, negotiation, and finding mutually agreeable solutions.
+
+The key is to provide specific examples that demonstrate your conflict resolution skills, emotional intelligence, and commitment to positive outcomes for all parties involved. [1][4]
+
+[1] [5 Common Interview Questions About Conflict (With Answers) - Indeed](https://www.indeed.com/career-advice/interviewing/interview-questions-about-conflict)  
+[2] [How should I answer "Tell me about a time you had a conflict at work ...](https://workplace.stackexchange.com/questions/157287/how-should-i-answer-tell-me-about-a-time-you-had-a-conflict-at-work-if-ive-ne)  
+[3] [Can you still get the job even if you didn't answer some of ... - Quora](https://www.quora.com/Can-you-still-get-the-job-even-if-you-didn-t-answer-some-of-the-questions-right-or-to-what-the-employer-was-looking-for-in-an-interview)  
+[4] [How to Answer “Tell Me About a Conflict or Disagreement With a Boss”](https://www.themuse.com/advice/conflict-with-boss-interview-question-answer-examples)  
+[5] [How to answer a conflicting priorities interview question - Indeed](https://uk.indeed.com/career-advice/interviewing/conflicting-priorities-interview-question)  
+[6] [7 Conflict Resolution Interview Questions [+Sample Answers]](https://www.findmyprofession.com/career-advice/conflict-interview-questions/)  
+[7] [Interview Tips for Conflict Resolution + Examples - Monster Jobs](https://www.monster.com/career-advice/article/conflict-resolution-questions)   
