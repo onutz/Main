@@ -160,3 +160,41 @@ Source: Conversation with Bing, 4/17/2024
 (2) Conflict management interview questions and answers - Workable. https://resources.workable.com/conflict-management-interview-questions.
 (3) Conflict Management Interview Questions and Answers - Indeed. https://ca.indeed.com/career-advice/interviewing/conflict-management-interview-questions.
 (4) 15 Conflict Management Interview Questions and Answers. https://climbtheladder.com/conflict-management-interview-questions/.
+
+
+
+Question: 
+Best questions to be asked bycandidate?
+
+Kagi: 
+Based on the knowledge provided in the memory, here are some recommended questions for a job candidate to ask during a job interview:
+
+Questions about the job role:
+- What are the day-to-day responsibilities of this role? [1][2]
+- What are the biggest challenges someone in this role would face? [1][2]
+- What skills and experiences would ideal candidates have for this role? [2]
+- What are the performance expectations and metrics for success in this position? [2][3]
+
+Questions about the company and culture:
+- How would you describe the company's culture and values? [4]
+- What makes employees stay with the company long-term? [5]
+- What does the company do to promote professional development? [1]
+
+Questions about growth and advancement:
+- What are the typical career paths for someone in this role? [1]
+- When was the last time someone was promoted from this position? [1]
+- How does the company provide opportunities for growth and advancement? [5]
+
+Questions about management and team:
+- Can you tell me about the team I'd be working with? [6]
+- What is the management style of the person who would supervise this position? [5]
+- How does the company ensure work-life balance for employees? [4]
+
+By asking insightful questions, candidates can demonstrate their interest in the role, assess if it's a good fit, and evaluate if the company aligns with their values and career goals. [1][2]
+
+[1] [Questions to Ask in an Interview: Land (and Vet) the Job - SHRM](https://www.shrm.org/topics-tools/news/organizational-employee-development/10-interview-questions-job-candidates-ask)  
+[2] [38 Smart Questions to Ask in a Job Interview](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview)  
+[3] [What are the best questions to ask an interviewer during a job ...](https://www.quora.com/What-are-the-best-questions-to-ask-an-interviewer-during-a-job-interview)  
+[4] [Career Coach Tips: 36 Questions To Ask in a Job Interview - Indeed](https://www.indeed.com/career-advice/interviewing/questions-to-ask-in-an-interview)  
+[5] [16 Questions Job Candidates Should Ask During A First Interview](https://www.forbes.com/sites/forbescoachescouncil/2022/03/16/16-questions-job-candidates-should-ask-during-a-first-interview/)  
+[6] [57 Smart Questions to Ask in a Job Interview in 2023 - The Muse](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
